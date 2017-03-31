@@ -1,0 +1,11 @@
+{
+  "name": "Gifts API",
+  "description": "This app does one little thing, and does it well.",
+  "keywords": [
+    "productivity",
+    "gifts",
+    "api"
+  ],
+  "repository": "https://github.com/suhailtaj/gifts_api",
+  "image": "heroku/nodejs"
+}
